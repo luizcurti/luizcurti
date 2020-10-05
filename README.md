@@ -4,7 +4,7 @@ Desenvolvedor back-end em PHP desde 2001.
 
 Atualmente me aprimorando em Python e React.
 
-______________________________________________-
+_____________________________________________________________________________
 
 Welcome 😁 My name is Luiz Curti. I'm Italian-Brazilian 🇧🇷 X 🇮🇹.
 
