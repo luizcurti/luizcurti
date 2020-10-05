@@ -1,19 +1,12 @@
-Bem vindo(a) 😁
-
-Meu nome é Luiz Curti.
-
-Sou ítalo-brasileiro 🇧🇷 X 🇮🇹.
+Bem vindo(a) 😁 Meu nome é Luiz Curti. Sou ítalo-brasileiro 🇧🇷 X 🇮🇹.
 
 Desenvolvedor back-end em PHP desde 2001.
 
 Atualmente me aprimorando em Python e React.
 
+______________________________________________-
 
-Welcome 😁
-
-My name is Luiz Curti.
-
-I'm Italian-Brazilian 🇧🇷 X 🇮🇹.
+Welcome 😁 My name is Luiz Curti. I'm Italian-Brazilian 🇧🇷 X 🇮🇹.
 
 PHP back-end developer since 2001.
 
