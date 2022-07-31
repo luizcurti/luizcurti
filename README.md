@@ -1,15 +1,11 @@
 Bem vindo(a) 😁 Meu nome é Luiz Curti. Sou ítalo-brasileiro 🇧🇷 X 🇮🇹.
 
-Desenvolvedor back-end em PHP desde 2001.
-
 Desenvolvendo em Node.JS desde 2019.
 Desenvolvendo em TypeScript desde 2021.
 
 _____________________________________________________________________________
 
 Welcome 😁 My name is Luiz Curti. I'm Italian-Brazilian 🇧🇷 X 🇮🇹.
-
-PHP back-end developer since 2001.
 
 Developing in Node.JS since 2019.
 Developing in TypeScript since 2021.
