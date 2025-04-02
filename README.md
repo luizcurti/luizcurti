@@ -3,17 +3,25 @@
 Luiz Curti | Italian-Brazilian 🇧🇷 🇮🇹 | Senior Software Engineer
 
 🚀 Back-end Developer specialized in Node.js, TypeScript, and scalable architectures.
+
 💡 Experienced in Microservices, Serverless, Event-Driven, and Clean Architecture.
+
 ☁️ Strong expertise in AWS (Lambda, S3, SQS, DynamoDB) and CI/CD pipelines.
+
 ⚙️ Passionate about DevOps, Infrastructure as Code (IaC), and software best practices.
 
 💻 Technologies & Tools
 
 🔹 Languages & Frameworks: Node.js, NestJS, TypeScript, JavaScript
+
 🔹 Databases: PostgreSQL, MySQL, DynamoDB, Redis, MongoDB.
+
 🔹 Cloud & DevOps: AWS (Lambda, S3, SQS, SNS, API Gateway), Terraform, Docker.
+
 🔹 Testing & Quality: Jest, TDD, CI/CD (Bitbucket Pipelines, GitHub Actions).
+
 🔹 Messaging Systems: RabbitMQ, SNS, SQS.
+
 🔹 Methodologies: Scrum, Kanban, SOLID, Clean Architecture.
 
 🚀 About Me:
