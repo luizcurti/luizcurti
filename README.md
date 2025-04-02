@@ -10,7 +10,7 @@ Luiz Curti | Italian-Brazilian 🇧🇷 🇮🇹 | Senior Software Engineer
 
 ⚙️ Passionate about DevOps, Infrastructure as Code (IaC), and software best practices.
 
-💻 Technologies & Tools
+💻 Technologies & Tools:
 
 🔹 Languages & Frameworks: Node.js, NestJS, TypeScript, JavaScript
 
@@ -32,6 +32,4 @@ I am passionate about automation, scalability, and writing high-quality code, al
 
 📍 Currently based in London, UK 🇬🇧
 
-📫 Connect with Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-curti-68a19730/)](https://www.linkedin.com/in/luiz-curti-68a19730/)
+📫 Connect with Me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-curti-68a19730/)](https://www.linkedin.com/in/luiz-curti-68a19730/)
